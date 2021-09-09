@@ -34,7 +34,7 @@ menu:
       url: /home
       weight: 1
     - name: About
-      url: /about
+      url: /about2
       weight: 2
     - name: GitHub
       url: https://github.com/jerrychuang97
@@ -42,4 +42,4 @@ menu:
     - name: Linkedin
       url: https://www.linkedin.com/in/yongbao-zhuang-22189b8b/
       weight: 4
-    
+
