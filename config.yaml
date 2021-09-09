@@ -15,7 +15,7 @@ ignoreFiles:
   - \.knit\.md$
   - \.utf8\.md$
 params:
-  faviconfile: images/favicon.png
+  faviconfile: images/pilot-favicon.png
   highlightjs: yes
   highlightjslanguages:
     - r
@@ -36,10 +36,13 @@ menu:
     - name: About
       url: /aboutme
       weight: 2
+    - name: Publications
+      url: /pub 
+      weight: 3
     - name: GitHub
       url: https://github.com/jerrychuang97
-      weight: 3
+      weight: 4
     - name: Linkedin
       url: https://www.linkedin.com/in/yongbao-zhuang-22189b8b/
-      weight: 4
+      weight: 5
 
