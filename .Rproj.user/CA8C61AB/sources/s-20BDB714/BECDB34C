@@ -1,0 +1,26 @@
+{
+    "id": "BECDB34C",
+    "path": "~/website1/content/about/index.Rmd",
+    "project_path": "content/about/index.Rmd",
+    "type": "r_markdown",
+    "hash": "1129924302",
+    "contents": "",
+    "dirty": false,
+    "created": 1631161550058.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "22,130",
+        "scrollLine": "18"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1631164107,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1631164107900,
+    "read_only": false,
+    "read_only_alternatives": []
+}
